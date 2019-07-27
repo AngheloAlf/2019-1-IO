@@ -1,0 +1,18 @@
+1. Describir el conjunto de datos: 
+    \item Cantidad de datos: 870
+    \item Atributo Predictor/Clasificador:
+	Predictor: vtr, inasistencia
+	Clasificador: sexo, Horas estudio semanal, tiempo libre, carrete, salud
+	Target: nota final
+    \item Tipo de Dato por atributo
+    \item Valores posibles
+	Sexo - Masculino (M) / Femenino (F)
+	Horas de Estudio Semanales - < 2 horas, [2 − 5] horas, [5 − 10] horas,> 10 horas
+	VTR - Veces que ha tomado el Ramo: 0, 1 o 2.
+	Tiempo Libre: Nada, Poco, Normal, Mucho o Demasiado
+	Carrete: Nada, Poco, Normal, Mucho o Demasiado
+	Salud: Muy Mala, Suficiente, Normal, Buena, Muy Buena
+	Inasistencias - cantidad de inasistencias actual: [0, 10]
+	Nota Final: < 55 o >= 55
+
+
